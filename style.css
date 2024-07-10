@@ -1,0 +1,19 @@
+p {
+    background-color: red;
+    color: yellow;
+    padding: 20px;
+    margin: 25px;
+  }
+  #erick {
+    background-color: aqua;
+    color: darkslategrey;
+    padding: 100px;
+    margin: 50px;
+  }
+
+  .enock {
+    background-color: deeppink;
+    color: darksalmon;
+    padding: 20px;
+    margin: 30px;
+  }
