@@ -29,3 +29,38 @@ p {
 .secondparent>*{
   padding: 10px;
 }
+
+.divparent{
+  display: flex;
+  justify-content: space-between;
+}
+
+.parent2{
+  display: flex;
+}
+
+.parent3{
+  display: flex;
+  justify-content: space-between;
+}
+
+.parent4{
+  display: flex;
+}
+
+.parent5{
+  display: flex;
+  justify-content: space-around;
+}
+
+.child{
+  padding: 10px;
+  margin: 10px;
+  background-color: aqua;
+}
+
+.bigchild{
+  padding:30px;
+  margin: 10px;
+  background-color: aqua;
+}
