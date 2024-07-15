@@ -64,3 +64,12 @@ p {
   margin: 10px;
   background-color: aqua;
 }
+
+.parent6{
+  display: flex;
+  justify-content: space-between;
+}
+
+.parent7 {
+  display: flex;
+}
