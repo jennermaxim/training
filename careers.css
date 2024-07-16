@@ -21,3 +21,24 @@ body{
   color: #fff;
   border-radius: 40px;
 }
+
+.main .values{
+  background-color: #f0f0f0;
+}
+
+.main .values .cards{
+  display: flex;
+  justify-content: center;
+}
+
+.main .values .cards .card{
+  width: 300px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.main .values .cards .card img{
+  width: 300px;
+  border-radius: 20px 20px 0 0;
+}
